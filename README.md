@@ -1,5 +1,4 @@
-carlos maradiaga<!--
-/*504 32591233
+delete
  * Thanks for downloading this project, if you have any ideas, tweaks, etc...
  * fork the repository and create a Pull Request.
  */
