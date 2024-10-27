@@ -1,4 +1,4 @@
-delete{karen Rubi}
+deletedelete{karen Rubi}
  * Thanks for downloading this project, if you have any ideas, tweaks, etc...
  * fork the repository and create a Pull Request.
  */
